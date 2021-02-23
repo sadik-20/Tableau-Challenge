@@ -1,6 +1,6 @@
 # Tableau Homework - Citi Bike Analytics
 
-[here]https://public.tableau.com/profile/sadik.muktar#!/
+https://public.tableau.com/profile/sadik.muktar#!/
 
 
 ### Before You Begin
