@@ -6,7 +6,7 @@ https://public.tableau.com/profile/sadik.muktar#!/
 
 
 
-![bike-station-map](image/bike_station_map)
+![bike-station-map](image/bike_station_map.png)
 
 ### Before You Begin
 
