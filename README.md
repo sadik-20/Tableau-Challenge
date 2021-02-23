@@ -2,10 +2,6 @@
 
 [here](https://public.tableau.com/profile/sadik.muktar#!/)
 
-
-
-
-
 ![bike-station-map](image/bike_station_map)
 
 ### Before You Begin
