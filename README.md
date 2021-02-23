@@ -1,8 +1,5 @@
 # Tableau Homework - Citi Bike Analytics
 
-https://public.tableau.com/profile/sadik.muktar#!/
-
-
 ### Before You Begin
 
 * This assignment will be saved to your Tableau Public account rather than GitHub. 
