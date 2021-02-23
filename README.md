@@ -3,6 +3,11 @@
 [here](https://public.tableau.com/profile/sadik.muktar#!/)
 
 
+
+
+
+![bike-station-map](image/bike_station_map)
+
 ### Before You Begin
 
 * This assignment will be saved to your Tableau Public account rather than GitHub. 
